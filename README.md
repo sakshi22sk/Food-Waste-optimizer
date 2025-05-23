@@ -1,4 +1,4 @@
-"# Food Waste Optimizer" 
+
 # Food Waste Optimizer
 
 ## Abstract
@@ -24,12 +24,12 @@ The ultimate goal of this project is to combat hunger and provide adequate nouri
 `food demand forecasting`, `socio-economic data`, `reduce food waste`, `Dijkstra’s algorithm`, `XGBoost`, `optimized delivery`
 
 ## How to Use
-
+Just login by using name=user and password=jar .
 
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements.
-
+Let's connect! 
 ## License
 
 This project is licensed under the MIT License.
